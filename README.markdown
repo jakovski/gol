@@ -9,3 +9,6 @@ Test Build Trigger
 Test Build Trigger
 
 Test Build trigger for rahal
+
+
+running the game with jenkins 
